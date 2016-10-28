@@ -5,7 +5,7 @@ create a tar.xz archive in the folder of your choice.
 * This script NEED IMPROVEMENT *
 
 
-Plugin purpose
+Script purpose
 ==============
 - clone (with option mirror) a list of git repo in a folder (same auth for all)
 - create a unique tar.xz archive with all repo inside
